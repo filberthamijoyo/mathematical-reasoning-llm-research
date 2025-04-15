@@ -67,4 +67,4 @@ The notebooks are self-contained with installation instructions for required pac
 
 ## Citation
 
-If you use this research in your work, please cite our paper. 
+If you use this research in your work, please cite our paper.
